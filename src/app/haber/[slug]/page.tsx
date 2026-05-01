@@ -76,7 +76,7 @@ export default async function PostDetailPage({ params }: PostPageProps) {
         </div>
 
         <div className="mt-12">
-          <ReportCTA title="Bu konuyla ilgili senin çevrende de benzer bir durum var mı?" />
+          <ReportCTA title="Bu konuyla ilgili senin çevrende de benzer bir durum var mı?" buttonLabel="Veri toplama formuna git" />
         </div>
       </div>
     </article>
